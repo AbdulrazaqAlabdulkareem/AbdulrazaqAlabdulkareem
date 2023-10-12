@@ -8,8 +8,6 @@
   </a>
 </h1>
 
-
-
 <h3 align="center">A passionate Cloud Engineer  from Saudi Arabia 🇸🇦 </h3>
 
 <br/>
